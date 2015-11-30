@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<!-- THIS IS CHANGE 1  -->
  <form action="EmployeeServlet" method="get">
   Name: <input type="text" name="name"><br>
   City: <input type="text" name="city"><br>
